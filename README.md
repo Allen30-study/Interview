@@ -1,14 +1,14 @@
 # Swift문법 관련 면접 문제
 ## Optional
-- [Optional 이란 무엇인지 설명해보세요.]()
-- [옵셔널타입을 왜 쓰는건가요? 일반타입도 있는데, 옵셔널 타입이 왜 필요한건가요?]()
-- [Null은 왜 앱이 왜 꺼지는지? 그런데, Swift의 nil은 왜 앱이 안꺼지는지? (다른 언어는 그렇지 않기도 함)]()
-- [Null과 nil의 차이점이 뭔가요?]()
-- [옵셔널에 대해서는 알고 있나요? 옵셔널 바인딩 처리는 어떻게 하나요?]()
-- [옵셔널에서 ! (느낌표)는 언제 써야할까요?]()
-- [Optional Chaining(?)과 nil-coalescing operator(??)의 차이점과 사용 시 주의사항은 무엇인가요?]()
-- [Optional을 Switch 문으로 돌릴 때, .none이 있는데 이 것과 nil의 차이점은?]()
+- [Optional 이란 무엇인지 설명해보세요.](https://github.com/Allen30-study/Interview/blob/main/01-Optional/01_Optional%EC%9D%B4%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EC%A7%80%20%EC%84%A4%EB%AA%85%ED%95%B4%EB%B3%B4%EC%84%B8%EC%9A%94%20copy.md)
+- [옵셔널타입을 왜 쓰는건가요? 일반타입도 있는데, 옵셔널 타입이 왜 필요한건가요?](https://github.com/Allen30-study/Interview/blob/main/01-Optional/02_%EC%98%B5%EC%85%94%EB%84%90%ED%83%80%EC%9E%85%EC%9D%84%20%EC%99%9C%20%EC%93%B0%EB%8A%94%EA%B1%B4%EA%B0%80%EC%9A%94%3F%20%EC%9D%BC%EB%B0%98%ED%83%80%EC%9E%85%EB%8F%84%20%EC%9E%88%EB%8A%94%EB%8D%B0%2C%20%EC%98%B5%EC%85%94%EB%84%90%20%ED%83%80%EC%9E%85%EC%9D%B4%20%EC%99%9C%20%ED%95%84%EC%9A%94%ED%95%9C%EA%B1%B4%EA%B0%80%EC%9A%94%3F.md)
+- [Null은 왜 앱이 왜 꺼지는지? 그런데, Swift의 nil은 왜 앱이 안꺼지는지? (다른 언어는 그렇지 않기도 함)](https://github.com/Allen30-study/Interview/blob/main/01-Optional/03_Null%EC%9D%80%20%EC%99%9C%20%EC%95%B1%EC%9D%B4%20%EC%99%9C%20%EA%BA%BC%EC%A7%80%EB%8A%94%EC%A7%80%3F%20%EA%B7%B8%EB%9F%B0%EB%8D%B0%2C%20Swift%EC%9D%98%20nil%EC%9D%80%20%EC%99%9C%20%EC%95%B1%EC%9D%B4%20%EC%95%88%EA%BA%BC%EC%A7%80%EB%8A%94%EC%A7%80%3F%20(%EB%8B%A4%EB%A5%B8%20%EC%96%B8%EC%96%B4%EB%8A%94%20%EA%B7%B8%EB%A0%87%EC%A7%80%20%EC%95%8A%EA%B8%B0%EB%8F%84%20%ED%95%A8).md)
+- [Null과 nil의 차이점이 뭔가요?](https://github.com/Allen30-study/Interview/blob/main/01-Optional/04_Null%EA%B3%BC%20nil%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%9D%B4%20%EB%AD%94%EA%B0%80%EC%9A%94%3F.md)
+- [옵셔널에 대해서는 알고 있나요? 옵셔널 바인딩 처리는 어떻게 하나요?](https://github.com/Allen30-study/Interview/blob/main/01-Optional/05_%EC%98%B5%EC%85%94%EB%84%90%EC%97%90%20%EB%8C%80%ED%95%B4%EC%84%9C%EB%8A%94%20%EC%95%8C%EA%B3%A0%20%EC%9E%88%EB%82%98%EC%9A%94%3F%20%EC%98%B5%EC%85%94%EB%84%90%20%EB%B0%94%EC%9D%B8%EB%94%A9%20%EC%B2%98%EB%A6%AC%EB%8A%94%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%ED%95%98%EB%82%98%EC%9A%94%3F.md)
+- [옵셔널에서 ! (느낌표)는 언제 써야할까요?](https://github.com/Allen30-study/Interview/blob/main/01-Optional/06_%EC%98%B5%EC%85%94%EB%84%90%EC%97%90%EC%84%9C%20!%20(%EB%8A%90%EB%82%8C%ED%91%9C)%EB%8A%94%20%EC%96%B8%EC%A0%9C%20%EC%8D%A8%EC%95%BC%ED%95%A0%EA%B9%8C%EC%9A%94%3F.md)
+- [Optional Chaining(?)과 nil-coalescing operator(??)의 차이점과 사용 시 주의사항은 무엇인가요?](https://github.com/Allen30-study/Interview/blob/main/01-Optional/07_Optional%20Chaining(%3F)%EA%B3%BC%20nil-coalescing%20operator(%3F%3F)%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EA%B3%BC%20%EC%82%AC%EC%9A%A9%20%EC%8B%9C%20%EC%A3%BC%EC%9D%98%EC%82%AC%ED%95%AD%EC%9D%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94%3F.md)
+- [Optional을 Switch 문으로 돌릴 때, .none이 있는데 이 것과 nil의 차이점은?](https://github.com/Allen30-study/Interview/blob/main/01-Optional/08_Optional%EC%9D%84%20Switch%20%EB%AC%B8%EC%9C%BC%EB%A1%9C%20%EB%8F%8C%EB%A6%B4%20%EB%95%8C%2C%20.none%EC%9D%B4%20%EC%9E%88%EB%8A%94%EB%8D%B0%20%EC%9D%B4%20%EA%B2%83%EA%B3%BC%20nil%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%9D%80%3F.md)
 
 ## Collection
-- [Array, dictionary는 무슨 타입인가요?]()
-- [값타입은 메모리에 값이 항상 복사되는데 더 느린 거 아닌가요?]()
+- [Array, dictionary는 무슨 타입인가요?](https://github.com/Allen30-study/Interview/blob/main/02-Collection/01_Array%2C%20dictionary%EB%8A%94%20%EB%AC%B4%EC%8A%A8%20%ED%83%80%EC%9E%85%EC%9D%B8%EA%B0%80%EC%9A%94%3F.md)
+- [값타입은 메모리에 값이 항상 복사되는데 더 느린 거 아닌가요?](https://github.com/Allen30-study/Interview/blob/main/02-Collection/02_%EA%B0%92%ED%83%80%EC%9E%85%EC%9D%80%20%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%97%90%20%EA%B0%92%EC%9D%B4%20%ED%95%AD%EC%83%81%20%EB%B3%B5%EC%82%AC%EB%90%98%EB%8A%94%EB%8D%B0%20%EB%8D%94%20%EB%8A%90%EB%A6%B0%20%EA%B1%B0%20%EC%95%84%EB%8B%8C%EA%B0%80%EC%9A%94%3F.md)
